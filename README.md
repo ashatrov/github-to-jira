@@ -15,10 +15,10 @@ It will trigger transitions in Jira to move issue from one status to second if s
 There are 2 classes in one file and both of them have option to configure.
 
 **Use your own**  
-jiraDomain  
-jiraLogin  
-jiraPassword  
-config  
-secret  
-jiraProjectsKeyRegexp  
+1. jiraDomain  
+1. jiraLogin  
+1. jiraPassword  
+1. config  
+1. secret  
+1. jiraProjectsKeyRegexp  
 

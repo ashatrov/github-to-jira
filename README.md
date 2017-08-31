@@ -9,6 +9,7 @@
    On the page `Settings/Webhooks/Add webhook` choose `Let me select individual events.` and add checkboxes to `Issue` and `Pull Request` (webhook will be triggered on label added/label removed)
 
 ## config.php
+1. **Copy `config.dist.php` to `config.php`**
 1. Change `['auth']['secret']` to your long random private string
 1. Setup your Jira url, user, password in `['jira']`
 1. Setup jira transitions ID to transition names mapping `['jira']['transitions']`  

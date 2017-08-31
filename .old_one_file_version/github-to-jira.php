@@ -1,6 +1,6 @@
 <?php
 
-namespace gitHubToJira;
+namespace OldDeprecatedGitHubToJira;
 
 class Jira
 {

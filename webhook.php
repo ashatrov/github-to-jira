@@ -4,7 +4,7 @@ namespace GithubToJira;
 include_once 'bootstrap.php';
 
 use GithubToJira\GithubEvent\EventFactory;
-use \GithubToJira\Request\Request;
+use GithubToJira\Request\Request;
 
 $config = include 'config.php';
 
